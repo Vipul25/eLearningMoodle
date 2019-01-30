@@ -104,7 +104,6 @@
     "webpack-merge": "^4.1.2"
   },
   "optionalDependencies": {
-    "electron-windows-notifications": "^2.1.1",
     "electron-builder-squirrel-windows": "^20.19.0"
   },
   "browser": {
