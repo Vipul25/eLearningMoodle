@@ -36,7 +36,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 export class CoreLoginCredentialsPage {
     credForm: FormGroup;
     siteUrl: string;
-    siteChecked = false;
+    siteChecked = true;
     siteName: string;
     logoUrl: string;
     authInstructions: string;
